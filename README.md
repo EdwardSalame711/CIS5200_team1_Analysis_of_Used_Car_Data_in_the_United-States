@@ -1,4 +1,3 @@
-# TEAM 1- CIS5200_team1_Analysis_of_Used_Car_Data_in_the_United States
 # CIS 5200 Sprinhg 2026 Final Code Project Submital
 
 ## FINAL PROJECT CODE
